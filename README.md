@@ -2,9 +2,7 @@
 
 Simple React Shopping Cart
 
- [![Aryan](https://img.shields.io/david/expressjs/express.svg)](https://github.com/AryanMaurya001/E-Shopping-Website)
-
-![E-Shopping Website Preview](https://res.cloudinary.com/sivadass/image/upload/v1494752103/gifs/react-shopping-cart.gif)
+ [Aryan](https://github.com/AryanMaurya001/E-Shopping-Website)
 
 This repository contains the source code for the E-Shopping Website project.
 
