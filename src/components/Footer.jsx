@@ -6,7 +6,7 @@ const Footer = () => {
     <footer>
       <p className="footer-links">
         <a
-          href="https://github.com/AryanMaurya001/E-Shopping-Website"
+          href="https://github.com/AryanMaurya001/E-Shopping-Website-Mainhttps---github.com-AryanMaurya001-E-Shopping-Website-blob-Main-README.md"
           target="_blank"
         >
           View Source on Github
